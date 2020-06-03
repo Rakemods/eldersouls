@@ -384,7 +384,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 - Lotus by erri120 - Repository template and NPC visuals
 - Total - Being a really helpful guy.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
-- KentuckyFriedCrusade - Thanks for the great work on the main menu and dark mode ui!!
+- jdsmith - The true madman behind the modlist
 
 ## Contact
 
