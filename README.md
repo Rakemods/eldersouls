@@ -1,6 +1,6 @@
 # Elder Souls
 
-- [Elder Souls](#elder-souls)
+- [Elder Souls](#elder-souls)https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Feldersouls%2Fbadge.json
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
