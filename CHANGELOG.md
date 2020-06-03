@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.11: Various Mod Updates](#1110-various-mod-updates)
   - [1.1.10: Various Mod Updates](#1110-various-mod-updates)
   - [1.1.9: Various Mod Updates](#119-various-mod-updates)
   - [1.1.8: Various Mod Updates](#118-various-mod-updates)
@@ -16,6 +17,22 @@
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+  
+ ## 1.1.11: Various Mod Updates
+
+**Released at**: `03.06.2020`
+
+**Info**:
+
+Just changes necessary to get the installer working again.
+
+***Totally savefile safe IF you
+follow the DynDOLOD update procedure...***
+
+**Changes**:
+
+- DynDoLOD Rebuilt
+ 
 
 ## 1.1.10: Various Mod Updates
 
