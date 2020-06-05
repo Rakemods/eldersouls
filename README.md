@@ -179,7 +179,7 @@ This mod implements the Soulsborne-style leveling and death system into Skyrim. 
 
 Additionally, upon sleeping in an owned or rented bed, that location will be marked as your current Respawn Point. On death, a Gravemarker will be spawned at your location containing all of your currently held gold, and you will be teleported to your most recent Respawn Point. If you die again, your previous Gravemarker will be replaced, and the original Gravemarker will be unobtainable.
 
-Your ability to save is limited as well. To save the game, you must sleep in a bed. When you activate a bed, you will be given an item called Elder Scroll - Break. This is a one-time consumable that will allow you to save once wherever you wish.
+Your ability to save is limited as well. There are two ways to save the game. The first way to save the game, you must sleep in a bed. When you activate a bed, you will be given an item called Elder Scroll - Break. This is a one-time consumable that will allow you to save once wherever you wish. The other allows for one "Elder Scroll - Break" to be added within 15 minutes. It does not stack. You wont get another scroll until you use the current one in your inventory after that another will be added in 15 minutes unless you find a bed before that. This was added to insure you could save when in a long dungeon with no beds present.
 
 ### Camera
 
@@ -349,10 +349,10 @@ Simply step up to the statue of mara and choose a start.
 
 My Setup:
 
-- Ryzen 1700 running at 3GHz
-- 1080ti
+- Intel i7-8700k
+- 2080ti
 - 32GB DDR4-3200 RAM (CL 14)
-- Game and MO2 running on a Samsung 850 EVO SSD
+- Game and MO2 running on a Samsung 860 EVO SSD
 
 ### Tweaking the ENB
 
@@ -388,7 +388,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/jdsmith2816/eldersouls/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Contributing
 
