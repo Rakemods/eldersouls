@@ -1,7 +1,8 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [1.1.11: Various Mod Updates](#1110-various-mod-updates)
+  - [1.1.12: Various Mod Updates](#1112-various-mod-updates)
+  - [1.1.11: Various Mod Updates](#1111-various-mod-updates)
   - [1.1.10: Various Mod Updates](#1110-various-mod-updates)
   - [1.1.9: Various Mod Updates](#119-various-mod-updates)
   - [1.1.8: Various Mod Updates](#118-various-mod-updates)
@@ -18,6 +19,83 @@
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
   
+## 1.1.12: Various Mod Updates
+
+**Released at**: `19.06.2020`
+
+**Info**:
+
+This update is only savefile safe if you perform a respec before you update and
+you clean the `ElderSouls_DeathScript` script from your character using Fallrim Tools.
+
+**Changes**:
+
+- Mods - Added
+- Mods - Removed
+  - Best in Class++
+  - Dovahkriid
+  - Mum's the Word
+- Mods - Updated
+  - Adamant
+  - Animated Armory
+  - Arctic - Frost Effects Redux
+  - Audio Overhaul Skyrim
+  - Audio Overhaul Skyrim ISC Patch
+  - Blade and Blunt
+  - Classic Sprinting Redone
+  - Display Tweaks
+  - Inferno
+  - Land of Vominheim
+  - Legendary Skyrim Crossbows and Bows
+  - Merchant Wares Variety
+  - More Dialogue Options
+  - Nether's Follower Framework
+  - Reliquary of Myth
+  - Rustic Amulets
+  - Serana Dialogue Addon
+  - Skyrim 3D High Hrothgar Steps
+  - Skyrim 3D Trees and Plants
+  - Skyrim Landscape and Water Fixes
+  - Soulmancer's Music Merge
+  - Tavern AI Fix
+  - The Magic of food and Drink Reborn
+  - The Tools of Kagrenac
+  - XP32 MAximum Skeleton
+  
+- Issues - Fixed
+  - [a chair clipping in a forge , whiterun, warmaiden's](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/130)
+  - [Bound Bow FX](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/94)
+  - [Crashes when selling items sometimes its a weapon like the Claw, other times its a Common Tunic (Clothing)](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/120)
+  - [CTD after opening multiple instances of the training window](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/98)
+  - [Darkend Dragons Difficulty](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/106)
+  - [DISARM SHOUT EXISTS](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/107)
+  - [Floating door outside Whiterun](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/112)
+  - [Floating Skeever in Fort Dawnguard](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/117)
+  - [High level dragon spawn over Ustengrav](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/95)
+  - [Ivar (NPC Trader Outside Whiterun) Causing CTD](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/92)
+  - [Massively Overleveled Dragon](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/45)
+  - [Millwater Retreat and Dark Forests of Skyrim bug](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/122)
+  - [Missing models in Khune](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/103)
+  - Remove Crystal Ball from Farengar's Laboratory
+  - [Staff of Magnus Third Person Bug](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/115)
+  - [typo in github](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/127)
+  - [Various Issues at Shrine of Akatosh](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/102)
+  
+- Issues - Unable To Reproduce
+  - [CTD after entering in interior cell](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/113)
+  - [CTD every 2nd or 3rd load screen](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/105)
+  - [CTD selling to Belethor in Whiterun](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/96)
+  - [Pale, White Hands in Fist Person View](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/97)
+  - [Staff of Shalidor 'Move into Staff' option causing CTD](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/110)
+  - [Whiterun floating walls](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/111)
+  
+- Issues - Won't Fix
+  - [Dual Wield Blocking](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/71)
+  - [MCM menu for Elder Souls - Death](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/124)
+  - [Summermyst Enchantments](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/53)
+  - [Thematically fitting temple player home in solitude](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/123)
+  - [Witchunter Spells](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues/72)
+
  ## 1.1.11: Various Mod Updates
 
 **Released at**: `03.06.2020`
