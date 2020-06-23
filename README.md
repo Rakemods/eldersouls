@@ -2,49 +2,49 @@
 
 - [Elder Souls](#elder-souls)
 - [Preamble](#preamble)
-  - [Installation](#installation)
-    - [Pre-Installation](#pre-installation)
-      - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-      - [Steam Config](#steam-config)
-        - [Disable the Steam Overlay](#disable-the-steam-overlay)
-      - [Change Steams Update Behavior](#change-steams-update-behavior)
-      - [Set the Game language to English](#set-the-game-language-to-english)
-      - [Clean Skyrim](#clean-skyrim)
-      - [Start Skyrim](#start-skyrim)
-    - [Using Wabbajack](#using-wabbajack)
-      - [Preparations](#preparations)
-      - [Downloading and Installing](#downloading-and-installing)
-        - [Problems with Wabbajack](#problems-with-wabbajack)
-    - [Post-Installation](#post-installation)
-      - [Copy Game Folder Files](#copy-game-folder-files)
-  - [Updating](#updating)
-  - [Noteworthy Mods](#noteworthy-mods)
-    - [Elder Souls - Death](#elder-souls---death)
-    - [Camera](#camera)
-    - [Combat - Melee](#combat---melee)
-    - [Combat - Archery](#combat---archery)
-    - [Combat - Magic](#combat---magic)
-    - [Skills, Perks and More](#skills-perks-and-more)
-    - [Quest and Encounter Mods](#quest-and-encounter-mods)
-    - [Monster Mods](#monster-mods)
-    - [Expanded Cities Towns and Villages](#expanded-cities-towns-and-villages)
-    - [NPC Retextures](#npc-retextures)
-    - [Followers](#followers)
-    - [Audio and Weather](#audio-and-weather)
-    - [New Equippables](#new-equippables)
-    - [ENB: Ominous](#enb-ominous)
-  - [In-Game MCM Options](#in-game-mcm-options)
-    - [Follower Framework](#follower-framework)
-  - [Creating your Character](#creating-your-character)
-  - [FAQ](#faq)
-  - [Tweaking Performance](#tweaking-performance)
-    - [Tweaking the ENB](#tweaking-the-enb)
-    - [Tweaking the Game Settings](#tweaking-the-game-settings)
-  - [Removing the Modlist](#removing-the-modlist)
-  - [Credits and Thanks](#credits-and-thanks)
-  - [Contact](#contact)
-  - [Contributing](#contributing)
-  - [Changelog](#changelog)
+- [Installation](#installation)
+  - [Pre-Installation](#pre-installation)
+    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+    - [Steam Config](#steam-config)
+      - [Disable the Steam Overlay](#disable-the-steam-overlay)
+    - [Change Steams Update Behavior](#change-steams-update-behavior)
+    - [Set the Game language to English](#set-the-game-language-to-english)
+    - [Clean Skyrim](#clean-skyrim)
+    - [Start Skyrim](#start-skyrim)
+  - [Using Wabbajack](#using-wabbajack)
+    - [Preparations](#preparations)
+    - [Downloading and Installing](#downloading-and-installing)
+      - [Problems with Wabbajack](#problems-with-wabbajack)
+  - [Post-Installation](#post-installation)
+    - [Copy Game Folder Files](#copy-game-folder-files)
+- [Updating](#updating)
+- [Noteworthy Mods](#noteworthy-mods)
+  - [Elder Souls - Death](#elder-souls---death)
+  - [Camera](#camera)
+  - [Combat - Melee](#combat---melee)
+  - [Combat - Archery](#combat---archery)
+  - [Combat - Magic](#combat---magic)
+  - [Skills, Perks and More](#skills-perks-and-more)
+  - [Quest and Encounter Mods](#quest-and-encounter-mods)
+  - [Monster Mods](#monster-mods)
+  - [Expanded Cities Towns and Villages](#expanded-cities-towns-and-villages)
+  - [NPC Retextures](#npc-retextures)
+  - [Followers](#followers)
+  - [Audio and Weather](#audio-and-weather)
+  - [New Equippables](#new-equippables)
+  - [ENB: Ominous](#enb-ominous)
+- [In-Game MCM Options](#in-game-mcm-options)
+  - [Follower Framework](#follower-framework)
+- [Creating your Character](#creating-your-character)
+- [FAQ](#faq)
+- [Tweaking Performance](#tweaking-performance)
+  - [Tweaking the ENB](#tweaking-the-enb)
+  - [Tweaking the Game Settings](#tweaking-the-game-settings)
+- [Removing the Modlist](#removing-the-modlist)
+- [Credits and Thanks](#credits-and-thanks)
+- [Contact](#contact)
+- [Contributing](#contributing)
+- [Changelog](#changelog)
 
 # Preamble
 
@@ -58,41 +58,41 @@ Among this new content you will find a variety of new hand placed monster types,
 
 Leveling and death are modelled after the Dark Souls system but utilizing gold rather than souls. Sleep to raise skills and level up.
 
-## Installation
+# Installation
 
-### Pre-Installation
+## Pre-Installation
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
-#### Installing Microsoft Visual C++ Redistributable Package
+### Installing Microsoft Visual C++ Redistributable Package
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-#### Steam Config
+### Steam Config
 
-##### Disable the Steam Overlay
+#### Disable the Steam Overlay
 
 The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-#### Change Steams Update Behavior
+### Change Steams Update Behavior
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
 To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-#### Set the Game language to English
+### Set the Game language to English
 
 Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-#### Clean Skyrim
+### Clean Skyrim
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`.
 
-#### Start Skyrim
+### Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
 
@@ -103,9 +103,9 @@ After you have done everything above and got a clean SSE installation ready, sta
 
 Start the game and exit once you're in the main menu.
 
-### Using Wabbajack
+## Using Wabbajack
 
-#### Preparations
+### Preparations
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` folder on the root of your drive such as C:/Wabbajack. This is your _working folder_ when the term is used again.
 
@@ -117,7 +117,7 @@ After clicking Browse Modlists, scroll until you find Elder Souls and click the 
 If Downloading From Release Tab
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
-#### Downloading and Installing
+### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
@@ -129,7 +129,7 @@ The download and installation process can take a very long time depending on you
 
 The Installation Location must NOT be your Skyrim folder. Your Download Location by default will be a folder inside your Installation Location. Using the same Download Location for multiple lists will help prevent downloading mods shared by the lists multiple times but is not necessary.
 
-##### Problems with Wabbajack
+#### Problems with Wabbajack
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
 
@@ -153,15 +153,15 @@ This can happen when I update the modlist. Check if a new update is available an
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
-### Post-Installation
+## Post-Installation
 
-#### Copy Game Folder Files
+### Copy Game Folder Files
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
 Copy the all of the files from the the Game Folder Files directory inside where you installed Elder Souls into your game folder. If you see skse64+loader.exe in the folder, you're in the right folder.
 
-## Updating
+# Updating
 
 If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
@@ -171,9 +171,9 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## Noteworthy Mods
+# Noteworthy Mods
 
-### Elder Souls - Death
+## Elder Souls - Death
 
 This mod implements the Soulsborne-style leveling and death system into Skyrim. Gold is used as a substitute for Souls. When you sleep in a bed, you will be able to spend your current gold to level up your skills. You may also use training books to increase your skills. To level up, you must sleep in a bed.
 
@@ -181,29 +181,29 @@ Additionally, upon sleeping in an owned or rented bed, that location will be mar
 
 Your ability to save is limited as well. There are two ways to save the game. The first way to save the game, you must sleep in a bed. When you activate a bed, you will be given an item called Elder Scroll - Break. This is a one-time consumable that will allow you to save once wherever you wish. The other allows for one "Elder Scroll - Break" to be added within 15 minutes. It does not stack. You wont get another scroll until you use the current one in your inventory after that another will be added in 15 minutes unless you find a bed before that. This was added to insure you could save when in a long dungeon with no beds present.
 
-### Camera
+## Camera
 
 This little section will go over some of the installed mods that effect the camera in a subtle or substantial way. They get their own section because it can feel very weird playing with them for the first time.
 
 [SmoothCam](https://github.com/mwilsnd/SkyrimSE-SmoothCam) overhauls third person camera movement to make it feel more like a typical action adventure type camera. It's fully configurable via MCM; tweak it till things feel right.
 
-### Combat - Melee
+## Combat - Melee
 
 [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) is a streamlined combat overhaul designed to enhance Skyrim’s difficulty and encourage active resource management. Unlike other combat overhauls, it does not seek to import mechanics from other games into Skyrim. Instead, it enhances the existing mechanics of Skyrim’s combat and focuses on tightening the gameplay to allow for more player skill and RPG-like character development.
 
 You should read this mod page.
 
-### Combat - Archery
+## Combat - Archery
 
 [Legendary Skyrim Crossbows](https://www.nexusmods.com/skyrimspecialedition/mods/8273) adds in crossbows as a full crossbow weapon expansion to Skyrim. There are crossbows for each material type, artifact crossbows, faction crossbows and they have been added seamlessly into the whole of Skyrim. Enemies now have a chance of using crossbows and you will find them just like you would any other type of weapon.
 
-### Combat - Magic
+## Combat - Magic
 
 [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) completely overhauls and rebalances vanilla magic while adding in 200ish new spells to flesh things out a bit.
 
 [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711) provides a unique and build defining progression system for magic users. Additionally there are many new spells added by the various content mods ranging from summons to elemental based magic.
 
-### Skills, Perks and More
+## Skills, Perks and More
 
 [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds religion and worship.
 
@@ -217,7 +217,7 @@ Werewolves are overhauled by [Growl](https://www.nexusmods.com/skyrimspecialedit
 
 [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is a streamlined Standing Stone overhaul designed to ensure that every stone fills a niche and offers competitive bonuses to different playstyles.
 
-### Quest and Encounter Mods
+## Quest and Encounter Mods
 
 Elder Souls comes with a wide variety of new quest and encounters.
 
@@ -237,7 +237,7 @@ Elder Souls comes with a wide variety of new quest and encounters.
 
 [Bleak Falls Barrow - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), [Embershard Mine - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/34468), [Steepfall Burrow - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/34594) and [Ustengrav - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33878) adds some new spice to the tired old dungeons that we've all done a hundred times. Enjoy!
 
-### Monster Mods
+## Monster Mods
 
 I've included a variety of hand placed monster encounters from various people including mihail and opusglass. I mostly focused on dark fantasy, horror, soulsborne type content when possible. There are too many mods to list them all out here so just check the modlist itself. Monsters from this massive monster merge have been distributed all throughout the game including some of the mod added content like Forgotten Dungeons.
 
@@ -245,11 +245,11 @@ I've included a variety of hand placed monster encounters from various people in
 
 Draugr's have been given an overhaul via [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188), [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238) and [Draugr Upgrades and Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/21775)
 
-### Expanded Cities Towns and Villages
+## Expanded Cities Towns and Villages
 
 Elder Souls comes with a massive merge of housing cities towns and villages that overhaul all of the population centers. The list is literally too long to go into in the readme so feel free to check the mod list. There are atleast four new player houses per hold ranging from small shacks to massive build your own settlements. The keys for these houses are all purchaseable, found at the end of quests or on enemy corpses. In addition to all of the housing every village town and city has been completely overhauled via a variety of mods.
 
-### NPC Retextures
+## NPC Retextures
 
 I love the work of [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925) and used [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012), [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680), [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) as my goto NPC retextures.
 
@@ -273,7 +273,7 @@ The priority looks like this (similar to MO2, the ones at the bottom overwrites 
 12. Pandorable's NPCs - Dawnguard
 13. Simple Children
 
-### Followers
+## Followers
 
 [Daanik the Returned](https://www.nexusmods.com/skyrimspecialedition/mods/21728/) is a powerful lich boss that you can summon to fight for you assuming that you can defeat him in combat.
 
@@ -287,7 +287,7 @@ The priority looks like this (similar to MO2, the ones at the bottom overwrites 
 
 In addition to the above custom followers all of the vanilla followers have been overhauled by [Special Edition Followers](https://www.nexusmods.com/skyrimspecialedition/mods/7622) to fill unique roles as combat companions.
 
-### Audio and Weather
+## Audio and Weather
 
 [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) and [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) offer an amazing base for skyrim's ambiance and foley.
 
@@ -299,7 +299,7 @@ The full Enigma series minus Disciple of Molag Bal from [Satafinix](https://www.
 
 [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125) provides sharp, ominous, and atmospheric weathers that accentuate proximal detail while obscuring distant landscapes with mysterious fogs.
 
-### New Equippables
+## New Equippables
 
 All of the Dark Souls weapons from [FunkyGandalfCat](https://www.nexusmods.com/skyrimspecialedition/users/31528195) have been added as well as those from the [Dark Souls 3 Weapon Pack](https://www.loverslab.com/files/file/6203-dark-souls-3-weapon-pack/) Currently the DS3 weapon pack is craft only but will eventually become loot hand placed in the various new dungeons.
 
@@ -317,26 +317,26 @@ In addition to the above Glenmoril, Darkend, Unslaad and Vigilant add in many mo
 
 [Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305) is a combined and continued version of Common Clothes and Brigandage. It features 51 new armors and 80 new clothes, created by Franklin Zunge. The clothes are worn by the common people of Skyrim: Farmers, merchants, miners, patrons, workers and some of the wealthier citizens. They can also be bought at Radiant Raiment. The armors are worn by bandits. Since all new armors cover the whole body, half-naked bandits chilling in the cold climate of Skyrim are almost completely eliminated. The armors can be improved at a workbench, but they cannot be crafted or bought.
 
-### ENB: Ominous
+## ENB: Ominous
 
 [Ominous](https://www.nexusmods.com/skyrimspecialedition/mods/27333) brings a grim feel to the world of Skyrim with its gloomy color palette, subtle lighting and dark skies.
 
-## In-Game MCM Options
+# In-Game MCM Options
 
 Everything not listed below is already configured for you. Feel free to peruse the settings and change them as you like.
 
-### Follower Framework
+## Follower Framework
 
 - System
   - Load from File
   - Hotkeyed Abilities
     - Customize as you wish
 
-## Creating your Character
+# Creating your Character
 
 Simply step up to the statue of mara and choose a start.
 
-## FAQ
+# FAQ
 
 - My character is stuck dodging
 
@@ -345,7 +345,7 @@ Simply step up to the statue of mara and choose a start.
 - I'm a 21:9 resolution user and my screen looks weird
   - Search 21x9 in mod organizer and activate all of those mods. Do this before creating your character or you'll need to do alot of configuration to get the UI looking right!!
 
-## Tweaking Performance
+# Tweaking Performance
 
 My Setup:
 
@@ -354,7 +354,7 @@ My Setup:
 - 32GB DDR4-3200 RAM (CL 14)
 - Game and MO2 running on a Samsung 860 EVO SSD
 
-### Tweaking the ENB
+## Tweaking the ENB
 
 This should always be the first thing you tweak. Disabling the ENB entirely can give you anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Ominous](#enb-ominous)) is rather performance intensive. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
 
@@ -364,7 +364,7 @@ This should always be the first thing you tweak. Disabling the ENB entirely can 
 - `Distant/DetailedShadow`: Those two can really give you a lot of FPS back depending on your shader settings (game settings). They are very noticeable.
 - `ComplexFire/ParticleLights`: You won't see a lot of difference at first when disabling those two, but when particles are on screen (eg using magic or near light sources such as fires), they can _burn_ through your FPS
 
-### Tweaking the Game Settings
+## Tweaking the Game Settings
 
 I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
 
@@ -373,11 +373,11 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 - `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
-## Removing the Modlist
+# Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
-## Credits and Thanks
+# Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - The Phoenix Flavor by Phoenix - General ideas and awesomesauce derived therefrom
@@ -386,14 +386,14 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - jdsmith - The true madman behind the modlist
 
-## Contact
+# Contact
 
 While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
-## Contributing
+# Contributing
 
 See [Contributing](CONTRIBUTING.md).
 
-## Changelog
+# Changelog
 
 See [Changelog](CHANGELOG.md).

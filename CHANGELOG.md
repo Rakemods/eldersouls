@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.13: Various Mod Updates](#1113-various-mod-updates)
   - [1.1.12: Various Mod Updates](#1112-various-mod-updates)
   - [1.1.11: Various Mod Updates](#1111-various-mod-updates)
   - [1.1.10: Various Mod Updates](#1110-various-mod-updates)
@@ -19,6 +20,26 @@
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
   
+## 1.1.13: Various Mod Updates
+
+**Released at**: `23.06.2020`
+
+**Info**:
+
+This update is only savefile safe if you perform a respec before you update and
+you clean the `ElderSouls_DeathScript` script from your character using Fallrim Tools.
+
+Note: Ensure that you copy the game folder files again for this update.
+
+**Changes**:
+
+- Mods - Added
+  - King of Worms | Queen of Dawn
+- Mods - Updated
+  - Elder Souls - Death
+  - Reliquary of Myth
+  - SSE Engine Fixes
+
 ## 1.1.12: Various Mod Updates
 
 **Released at**: `19.06.2020`
