@@ -109,7 +109,7 @@ Start the game and exit once you're in the main menu.
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` folder on the root of your drive such as C:/Wabbajack. This is your _working folder_ when the term is used again.
 
-Let's get to the actual installation. Grab the latest release of Elder Souls from [the release tab](https://github.com/jdsmith2816/eldersouls/releases) or by running Wabbajack and selecting Browse Modlists.
+Let's get to the actual installation. Grab the latest release of Elder Souls by running Wabbajack and selecting Browse Modlists.
 
 If Downloading From Browse Modlists
 After clicking Browse Modlists, scroll until you find Elder Souls and click the download modlist button, an arrow pointing down with a horizontal arrow. After downloading it will take you to a new screen to select Download Location and Installation Location.
