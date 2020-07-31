@@ -107,23 +107,21 @@ Start the game and exit once you're in the main menu.
 
 ### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` folder on the root of your drive such as C:/Wabbajack. This is your _working folder_ when the term is used again.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a blank folder on the root of your drive such as C:/Wabbajack. This is your _working folder_ when the term is used again.
 
 Let's get to the actual installation. Grab the latest release of Elder Souls by running Wabbajack and selecting Browse Modlists.
 
 If Downloading From Browse Modlists
 After clicking Browse Modlists, scroll until you find Elder Souls and click the download modlist button, an arrow pointing down with a horizontal arrow. After downloading it will take you to a new screen to select Download Location and Installation Location.
 
-If Downloading From Release Tab
-Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
 ### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Load the Modlist from Disk by clicking Install from Disk
-3. Adjust the download and installation paths
+2. Load the Modlist by clicking the download button on the Browse Modlists page inside the Wabbajack app. 
+3. Adjust the download and installation paths to where you wish to have the list installed and for its downloads to be stored. A single download location can be used for multiple lists if you wish to do so.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 
