@@ -37,6 +37,7 @@
   - [Follower Framework](#follower-framework)
   - [All Geared Up Derivative](#all-geared-up-derivative)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
+  - [Less Intrusive HUD](#less-intrusive-hud)
 - [Creating your Character](#creating-your-character)
 - [FAQ](#faq)
 - [Tweaking Performance](#tweaking-performance)
@@ -340,6 +341,9 @@ Everything not listed below is already configured for you. Feel free to peruse t
  ## The Ultimate Dodge Mod
  - You can change the button you use to sneak here. The one in the normal settings menu is instead used for dodging.
  - One keybind is to set G. This is used to swap between dodge rolls, side steps, and both. Rebind it a different button to no longer conflict with the Souls Like Quick Menu
+ 
+ ## Less Intrusive HUD
+ - Turn on Show Alternate Sneak Crosshair. This allows your crosshair to remain while you're sneaking.
 
 # Creating your Character
 
