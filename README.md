@@ -160,7 +160,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
-Copy the all of the files from the the Game Folder Files directory inside where you installed Elder Souls into your game folder. If you see skse64+loader.exe in the folder, you're in the right folder.
+Copy the all of the files from the Game Folder Files directory inside where you installed Elder Souls into your game folder. If you see skse64+loader.exe in the folder, you're in the right folder.
 
 # Updating
 
