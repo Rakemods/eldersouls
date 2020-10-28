@@ -17,6 +17,7 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
+- [Starting the Game](#starting-the-game)
 - [Updating](#updating)
 - [Noteworthy Mods](#noteworthy-mods)
   - [Elder Souls - Death](#elder-souls---death)
@@ -161,6 +162,16 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
 Copy the all of the files from the Game Folder Files directory inside where you installed Elder Souls into your game folder. If you see skse64+loader.exe in the folder, you're in the right folder.
+
+
+# Starting the Game
+
+Go into the list's instalation folder and find modorganizer.exe. Run this program to launch Mod Organizer 2. Once open, you can launch Elder Souls by selecting "THE GAME (AKA SKSE)" in the dropdown menu next to the Run button and than pressing run. The game may take a few moments to actually open after hitting run, this is normal.
+If you have a 21x9 aspect ratio monitor, enable the following mods in Mod Organizer 2's left panel before running the game.
+  EZ2C Diaglogue Menu - 21x9
+  Race Menu - Complete Widescreen Fix - 21x9
+  Dear Diary - Dark Mode - 21x9
+  Elder Souls - MCM Configuration - 21x9
 
 # Updating
 
