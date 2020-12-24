@@ -7,8 +7,8 @@
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
       - [Disable the Steam Overlay](#disable-the-steam-overlay)
-    - [Change Steams Update Behavior](#change-steams-update-behavior)
-    - [Set the Game language to English](#set-the-game-language-to-english)
+      - [Change Steams Update Behavior](#change-steams-update-behavior)
+      - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
     - [Start Skyrim](#start-skyrim)
   - [Using Wabbajack](#using-wabbajack)
@@ -28,7 +28,6 @@
   - [Skills, Perks and More](#skills-perks-and-more)
   - [Quest and Encounter Mods](#quest-and-encounter-mods)
   - [Monster Mods](#monster-mods)
-  - [Expanded Cities Towns and Villages](#expanded-cities-towns-and-villages)
   - [NPC Retextures](#npc-retextures)
   - [Followers](#followers)
   - [Audio and Weather](#audio-and-weather)
@@ -39,6 +38,7 @@
   - [All Geared Up Derivative](#all-geared-up-derivative)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
   - [Less Intrusive HUD](#less-intrusive-hud)
+  - [SmoothCam](#smoothcam)
 - [Creating your Character](#creating-your-character)
 - [FAQ](#faq)
 - [Tweaking Performance](#tweaking-performance)
@@ -80,13 +80,13 @@ The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-### Change Steams Update Behavior
+#### Change Steams Update Behavior
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
 To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-### Set the Game language to English
+#### Set the Game language to English
 
 Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
 
@@ -145,8 +145,6 @@ If a mod updated and the old files got deleted, it is impossible to download the
 
 [Dark Souls Sound Overhaul](https://www.loverslab.com/files/file/990-dark-souls-sound-overhaul/?do=download&r=100225&confirm=1&t=1)
 
-[Insanity's Texture Pack](http://tesalliance.org/forums/index.php?/files/file/1098-insanitys-texture-pack-skyrim/)
-
 **x is not a whitelisted download**:
 
 This can happen when I update the modlist. Check if a new update is available and wait if there is none.
@@ -197,7 +195,9 @@ Your ability to save is limited as well. There are two ways to save the game. Th
 
 This little section will go over some of the installed mods that effect the camera in a subtle or substantial way. They get their own section because it can feel very weird playing with them for the first time.
 
-[SmoothCam](https://github.com/mwilsnd/SkyrimSE-SmoothCam) overhauls third person camera movement to make it feel more like a typical action adventure type camera. It's fully configurable via MCM; tweak it till things feel right.
+[SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) overhauls third person camera movement to make it feel more like a typical action adventure type camera. It's fully configurable via MCM; tweak it till things feel right.
+
+[SmoothCam - Modern Camera Preset](https://www.nexusmods.com/skyrimspecialedition/mods/41636) is an over the shoulder SmoothCam preset best suited for a modern action combat experience.
 
 ## Combat - Melee
 
@@ -221,7 +221,7 @@ You should read this mod page.
 
 I chose [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) for our perk overhaul since it pairs so very nicely with both Mysticism and Blade and Blunt by the same author.
 
-Werewolves are overhauled by [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) while [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086) takes care of our bloody friends of the night.
+Werewolves are overhauled by [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) while [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) takes care of our bloody friends of the night.
 
 [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is a streamlined race overhaul designed to make races more meaningful without making them more restrictive.
 
@@ -241,49 +241,47 @@ Elder Souls comes with a wide variety of new quest and encounters.
 
 [Forgotten Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/449) adds over sixty new radiant quest enabled dungeons with entirely new monsters to encounter. It has been updated to pull in additional monsters from the Elder Souls monster merge.
 
+[Glenmoril](https://www.nexusmods.com/skyrimspecialedition/mods/32998) is Vicn's second large quest mod, a sort of spiritual successor to VIGILANT and a prequel (possibly) to UNSLAAD.
+
 [Hammet's Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/12186) and [Land of Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472) add another 60ish high quality dungeons and a landmass the size of solstheim to explore.
 
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives has been extended to Solstheim.
 
 [Skyrim Sewers](https://www.nexusmods.com/skyrimspecialedition/mods/9320) adds an accessible sewer system to the towns of Solitude, Whiterun, Windhelm and Markarth and also small sewage tunnels to Fort Sungard and Greenwall. Don't let the name fool you as this is by far some of the best made dungeon content available for Skyrim.
 
-[Bleak Falls Barrow - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), [Embershard Mine - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/34468), [Steepfall Burrow - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/34594) and [Ustengrav - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33878) adds some new spice to the tired old dungeons that we've all done a hundred times. Enjoy!
+[Bleak Falls Barrow - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33251), [Embershard Mine - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/34468), [Halted Stream Camp - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/39199), [Steepfall Burrow - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/34594), [Ustengrav - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/33878) and [White River Watch - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/39294) add some new spice to the tired old dungeons that we've all done a hundred times. Enjoy!
 
 ## Monster Mods
 
 I've included a variety of hand placed monster encounters from various people including mihail and opusglass. I mostly focused on dark fantasy, horror, soulsborne type content when possible. There are too many mods to list them all out here so just check the modlist itself. Monsters from this massive monster merge have been distributed all throughout the game including some of the mod added content like Forgotten Dungeons.
 
-[Sea of Spirits](https://www.nexusmods.com/skyrimspecialedition/mods/4781) turns the Sea of Ghosts (and the rest of the seas in Skyrim and Solstheim) into a lively Sea of Spirits by adding many new sea creatures, like whales, narwhals, sharks, dreugh, and many others. Snow whale has been removed.
+[Here There Be Monsters](https://www.nexusmods.com/skyrimspecialedition/mods/35929) The Sea of Ghosts, they call it. An emptiness of ice and fog, lifeless and haunted. But the icy depths hide horrors even the Dragonborn has never faced. Legends tell of the beasts that dwell in the deep. Monsters of such immensity, that even the dragons fear them. And now, like the dragons, the monsters have awoken.
 
 Draugr's have been given an overhaul via [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188), [Cannibal Draugr on Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/21238) and [Draugr Upgrades and Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/21775)
 
-## Expanded Cities Towns and Villages
-
-Elder Souls comes with a massive merge of housing cities towns and villages that overhaul all of the population centers. The list is literally too long to go into in the readme so feel free to check the mod list. There are atleast four new player houses per hold ranging from small shacks to massive build your own settlements. The keys for these houses are all purchaseable, found at the end of quests or on enemy corpses. In addition to all of the housing every village town and city has been completely overhauled via a variety of mods.
-
 ## NPC Retextures
 
-I love the work of [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925) and used [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012), [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680), [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135) as my goto NPC retextures.
+[Beards of Power - NPC Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/43293) is a male npc replacer mod that also distributes beards from Beards of Power.
 
-The Bijin lineup with [Bijin Wives](https://www.nexusmods.com/skyrimspecialedition/mods/11247), [Bijin NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/11287) and [Bijin Warmaidens](https://www.nexusmods.com/skyrimspecialedition/mods/1825) fills the gaps that Pandorable's mods leave.
+[BeastHHBB - Beast Hair Horn Beard and Brow](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
 
-[The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902) retextures some Men in Skyrim. I handpicked NPCs from [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376) and [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247). The rest is covered by [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291) and [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789). [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) is the base for all elves.
+[Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174) is a lore friendly and compatible NPC overhaul that aims to preserve the rugged aesthetic of people in Skyrim.
+
+[Reyliik do Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/20575) is a npc replacer for females that attempts to mix and match npc diversity by its own to a big part of important and not-so-important important named npcs.
+
+[Simple Children](https://www.nexusmods.com/skyrimspecialedition/mods/22789) is a simple overhaul for children, giving them unique faces, new skin, a wider variety of hair, and unique eye colors.
+
+[VHR - Vanilla Hair Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/25574) is a lore-friendly hair replacer that tries to stay true to the vanilla hairstyles with high-poly replacements. Made for men and mer.
 
 The priority looks like this (similar to MO2, the ones at the bottom overwrites the ones at the top):
 
-1. Ethereal Elven Overhaul
-2. Fresh Faces
-3. Diversity
-4. Kalilies NPCs
-5. The Ordinary Women
-6. The Men of Winter
-7. Bijin NPCs
-8. Bijin Warmaidens
-9. Bijin Wives
-10. Pandorable's NPCs
-11. Pandorable's NPCs - Dragonborn
-12. Pandorable's NPCs - Dawnguard
-13. Simple Children
+1. HMBII
+2. VHR
+3. Beards of Power - NPC Replacer
+4. BeastHHBB
+5. Reyliik do Skyrim
+6. Simple Children
+17. Simple Children
 
 ## Followers
 
@@ -356,6 +354,11 @@ Everything not listed below is already configured for you. Feel free to peruse t
  ## Less Intrusive HUD
  - Turn on Show Alternate Sneak Crosshair. This allows your crosshair to remain while you're sneaking.
 
+## SmoothCam
+- Presets
+  - Load preset
+    - On the ***right page*** click `Slot 4: Modern Preset`
+
 # Creating your Character
 
 Simply step up to the statue of mara and choose a start.
@@ -408,11 +411,10 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 - Lotus by erri120 - Repository template and NPC visuals
 - Total - Being a really helpful guy.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
-- jdsmith - The true madman behind the modlist
 
 # Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/GuitarBarbarianOfThunder/eldersouls/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/jdsmith2816/eldersouls/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 # Contributing
 
