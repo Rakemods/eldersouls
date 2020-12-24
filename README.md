@@ -34,7 +34,6 @@
   - [New Equippables](#new-equippables)
   - [ENB: Ominous](#enb-ominous)
 - [In-Game MCM Options](#in-game-mcm-options)
-  - [Follower Framework](#follower-framework)
   - [All Geared Up Derivative](#all-geared-up-derivative)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
   - [Less Intrusive HUD](#less-intrusive-hud)
@@ -334,13 +333,6 @@ In addition to the above Glenmoril, Darkend, Unslaad and Vigilant add in many mo
 # In-Game MCM Options
 
 Everything not listed below is already configured for you. Feel free to peruse the settings and change them as you like.
-
-## Follower Framework
-
-- System
-  - Load from File
-  - Hotkeyed Abilities
-     - Customize as you wish
      
 ## All Geared Up Derivative
  - Weapons - Player
