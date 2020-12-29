@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.4: Fixes and Updates](#14-fixes-and-updates)
   - [1.3.0: Changed All The Things](#130-changed-all-the-things)
   - [1.1.12: Various Mod Updates](#1112-various-mod-updates)
   - [1.1.11: Various Mod Updates](#1111-various-mod-updates)
@@ -19,7 +20,85 @@
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
-  
+
+## 1.4: Fixes and Updates
+
+**Released at**: `29.12.2020`
+
+**Info**:
+
+This update ***is not savefile safe*** due to the Wheels of Lull update.
+
+**Notes**:
+
+**Changes**:
+
+- Regenerated
+  - ALLGUD Meshes
+  - ALLGUD Meshes - Dynamic
+  - DynDOLOD Output
+  - Grass Cache
+  - Nemesis Output
+  - TexGen Output
+  - xLODGen Output
+
+- Issues - Fixed
+  - [Change the player knockdown from pounce attacks to a stagger](https://github.com/jdsmith2816/eldersouls/issues/177)
+  - [College of Winterhold dorm bed as respawn location](https://github.com/jdsmith2816/eldersouls/issues/149)
+  - [Crossbow is missing reloading sound](https://github.com/jdsmith2816/eldersouls/issues/170)
+  - [Faralda (College Entry Trail NPC) will not speak, cant join college](https://github.com/jdsmith2816/eldersouls/issues/140)
+  - [Massive Script Proliferation in Save File](https://github.com/jdsmith2816/eldersouls/issues/87)
+  - [New list of visual bugs](https://github.com/jdsmith2816/eldersouls/issues/141)
+  - [No gold on Follower/Summon kills ](https://github.com/jdsmith2816/eldersouls/issues/84)
+  - [Random CTD's after loading screenn when entering/exiting/fast travelling](https://github.com/jdsmith2816/eldersouls/issues/79)
+  - [Sabertooth cats Ragdoll Spam](https://github.com/jdsmith2816/eldersouls/issues/50)
+  - [Unspendable Perk Points](https://github.com/jdsmith2816/eldersouls/issues/172)
+
+- Mods - Added
+  - Blackreach Tentacle Mesh Fix
+  - Cathedral - 3D Mountain Flowers
+  - Clams and Oysters Clipping Fix
+  - DAR - Dynamic Swimming
+  - Dear Diary
+  - Feral - Claw Unarmed Attacks for Beast Races - Vampires - Werewolves
+  - Jazbay by Mari
+  - Majestic Landscapes
+  - Maximum Carnage
+  - MiscFix
+  - New Beginnings - Live Another Life Extension
+  - Project Clarity - Clutter
+  - Stagger Direction Fix
+  - TESG Loadscreen Replacer
+  - The Wheels of Lull
+  - Windhelm Enhanced - 500 Companions Wall
+  - Wonders of Weather
+  - Wyrmstooth
+  - zxlice Backstab and Parry
+
+- Mods - Removed
+  - Better Dynamic Majestic Mountains
+  - Beyond Reach - BDS Patch
+  - Bite - Wildlife Combat Enhancement
+  - Dear Diary - Dark Mode
+  - OCW_BDS_FEPatch
+
+- Mods - Updated
+  - Alternate Start - Live Another Life
+  - Beards of Power - Sons of Skyrim
+  - Better Dynamic Snow
+  - DynDOLOD
+  - DweFarm01 Mesh Fix Replacer
+  - ELFX Fixes
+  - ENB Light - Bugs in a Jar
+  - MM - Foglings
+  - MM - Sea Giants
+  - MM - Zombie Dogs
+  - Monsters Merged
+  - Project Clarity - Effects
+  - Skyrim Souls RE
+  - Teldryn Serious Patch
+  - Weathers Merged
+
 ## 1.3.0: Changed All The Things
 
 **Released at**: `23.12.2020`
