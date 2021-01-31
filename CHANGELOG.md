@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.5: Fixes and Updates](#15-fixes-and-updates)
   - [1.4: Fixes and Updates](#14-fixes-and-updates)
   - [1.3.0: Changed All The Things](#130-changed-all-the-things)
   - [1.1.12: Various Mod Updates](#1112-various-mod-updates)
@@ -20,6 +21,173 @@
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+
+## 1.5: Fixes and Updates
+
+**Released at**: `30.01.2020`
+
+**Info**:
+
+**Notes**:
+
+- Mihail conjuration spells removed from vendors; if you want them find them.
+- Glenmoril weapons have been properly patched and rebalanced for Animated Armory.
+- There's a strange idol in your inventory now...
+- Shout's have been overhauled... get to shouting and seek out an akaviri pillar near skyhaven temple.
+- Glowing tinkling lights mark the locations of interesting content... piece it all together dark souls style and keep an open mind.
+
+You ***must*** copy Game Folder Files again.
+You ***must*** start a new game!!
+
+**Changes**:
+
+- Regenerated
+  - ALLGUD Meshes
+  - ALLGUD Meshes - Dynamic
+  - ALLGUD Skeletons
+  - Elder Souls - FaceGen
+  - DynDOLOD Output
+  - Grass Cache
+  - Nemesis Output
+  - NPC Retextures Merged
+  - TexGen Output
+  - xLODGen Output
+
+- Issues - Fixed
+  
+- Mods - Added
+  - 4th - Clannfears
+  - 4th - Durzogs
+  - 4th - Echatere
+  - 4th - Guars
+  - 4th - Hungers
+  - 4th - Kwama Creatures
+  - 4th - Scamps
+  - 4th - Welwas- GLENMORIL - Gun Replacer
+  - All Geared Up Derivative - JS Purses and Septims Patch
+  - Aquatic Jungle
+  - aMidianBorn Armor Variants Lite
+  - Ave's Unique Jewelry Replacer (All Except Necklaces)
+  - Better Hallowed Remains Texture for Wintersun
+  - Better Stealth AI for Followers
+  - Bosmer NPCs Have Antlers
+  - Craftable Lockpicks Option
+  - Craftable Torches
+  - Custom Skills Framework
+  - Custom Skills - VIGILANT
+  - Dear Diary - Wood and Paper Skin
+  - Draconic Brigand Axe Reborn
+  - Draugr Slayer Greatsword Reborn
+  - Dynamic Volumetric Lighting and Sun Shadows
+  - DynDOLOD Resources - Better Red Mountain Plume
+  - ENB Light - Ingredients
+  - Falmer Eye Gem Retexture
+  - Faster Mining Plus
+  - First Person Combat Animations Overhaul
+  - Followers Don't Draw Weapons
+  - Follower Trap Safety
+  - Forceful Tongue - Dragonborn Perk Tree
+  - Forceful Tongue - Shouts Overhaul
+  - Hag's Breath (Modified to be a Nettlebane Replacer)
+  - HD Reworked Shellbug
+  - Improved Atmosphere Mesh
+  - Improved Clouds Mesh
+  - Improved Dwemer Glass
+  - Manbeast - A Werewolf Overhaul
+  - Markarth - A Mountainous Experience
+  - Markarth - A Reflective Experience
+  - Masterhood
+  - MM - Giantesses
+  - MM - Mourning Souls
+  - MM - Skaafin
+  - Project Clarity - Architecture Textures Redone
+  - Simple Offence Suppression
+  - Simple Offence Suppression MCM - Block Friendly Fire
+  - Simple Werewolf Favourite Howls Menu
+  - Solitude Mesh Fixes
+  - Swamp fungal pod
+  - Thunder Sounds - WiZkiD Mix-
+  - Unplayable Faction Armors
+  - Verdant's Axe
+  - VIGILANT - Armors Retexture
+  - VIGILANT - Covered Female Robes
+  - VIGILANT - HiRes Textures
+  - VIGILANT - Stendarr Statue Replacer
+  - VIGILANT - Witch Hunter Armor Retexture
+  - Werewolf Claws AFfect Spider Webs
+  - Whiterun Skyforge - Reforged
+  - Winterhold Statue - Animated with ENB Lights
+  - Wonders of Weather - Less Opaque Rain Splashes
+
+- Mods - Removed
+  - Ars Metallica
+  - aMidianBorn Content Addon
+  - Ashbound
+  - Beards of Power - NPC Replacer
+  - Bright Snow Fix
+  - Draconic Brigand Axe
+  - Draugr Slayer Greatsword
+  - Expressive Werebeasts
+  - Flora Mod Collection - Swamp Fungal Pod
+  - Growl - Werebeasts of Skyrim
+  - Hide Those Futile Quests
+  - Reyliik do Skyrim
+  - Shout
+  - Unique Item Tweaks
+  - Unique Uniques
+  - VIGILANT - NPC Overhaul
+  
+- Mods - Updated
+  - Assorted Mesh Fixes
+  - Better Dynamic Ash
+  - Better Dynamic Snow
+  - Castle Volkihar Rebuilt
+  - Cathedral - 3D Mountain Flowers
+  - Cathedral Player and NPC Overhaul - HMB II
+  - Classic Sprinting Redone
+  - Dear Diary
+  - Dear Diary - Playstation Buttons Patch
+  - Drake Knight Greatsword
+  - DynDOLOD
+  - DynDOLOD - Resources
+  - Engine Fixes
+  - Enhanced Lights and FX - Dwemer Floor Footsteps Fix
+  - Enhanced Reanimation
+  - GLENMORIL
+  - GLENMORIL - English Translation
+  - GLENMORIL - Gun Replacer
+  - Guard Dialogue Overhaul
+  - Improved Traps
+  - Land of Vominheim
+  - Maximum Carnage
+  - MM - Barghets and Hell Hounds
+  - MM - Gravelords
+  - MM - Rotten Maidens
+  - MM - Taurus Demon
+  - MM - Watchers
+  - MM - Wraiths
+  - MM - Zombie Dogs and Skinned Hounds
+  - MM - Zombies
+  - moreHUD
+  - More to Say
+  - Mysticism - A Magic Overhaul
+  - NPC AI Process Position Fix
+  - OnHit Animations Framework
+  - Project Clarity - Clutter Textures Redone
+  - Project Clarity - Creature Textures Redone
+  - Reliquary of Myth - Artifact Overhaul
+  - Scion - A Vampire Overhaul
+  - Serana Dialogue Add-On
+  - Skyrim Souls RE
+  - Smooth Windhelm Ground Meshes
+  - Soulmancer Music Merge
+  - VIGILANT
+  - VIGILANT - Book Covers
+  - VIGILANT - Voiced
+  - WiZkiD Signs
+  - WOODFIRES - Redux
+  - XP32 Maximum Skeleton Special Extended
+  - zxlice Backstab and Parry
 
 ## 1.4: Fixes and Updates
 
